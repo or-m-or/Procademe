@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36221.1 d17.14
+VisualStudioVersion = 17.14.36221.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DFS-Recursive", "DFS-Recursive\DFS-Recursive.vcxproj", "{8C8A1E87-2EBA-4F17-A935-5681C884F256}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DFS-Stack", "DFS-Stack\DFS-Stack.vcxproj", "{1E19E7A9-D6D7-4150-B369-714AE6A702BE}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BFS-Queue", "BFS-Queue\BFS-Queue.vcxproj", "{963609FB-5CF8-4BFE-A561-8846D5683F5A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Evaluation", "Evaluation\Evaluation.vcxproj", "{BB760378-BD7E-44F6-995D-15BF45F147AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,14 @@ Global
 		{963609FB-5CF8-4BFE-A561-8846D5683F5A}.Release|x64.Build.0 = Release|x64
 		{963609FB-5CF8-4BFE-A561-8846D5683F5A}.Release|x86.ActiveCfg = Release|Win32
 		{963609FB-5CF8-4BFE-A561-8846D5683F5A}.Release|x86.Build.0 = Release|Win32
+		{BB760378-BD7E-44F6-995D-15BF45F147AC}.Debug|x64.ActiveCfg = Debug|x64
+		{BB760378-BD7E-44F6-995D-15BF45F147AC}.Debug|x64.Build.0 = Debug|x64
+		{BB760378-BD7E-44F6-995D-15BF45F147AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB760378-BD7E-44F6-995D-15BF45F147AC}.Debug|x86.Build.0 = Debug|Win32
+		{BB760378-BD7E-44F6-995D-15BF45F147AC}.Release|x64.ActiveCfg = Release|x64
+		{BB760378-BD7E-44F6-995D-15BF45F147AC}.Release|x64.Build.0 = Release|x64
+		{BB760378-BD7E-44F6-995D-15BF45F147AC}.Release|x86.ActiveCfg = Release|Win32
+		{BB760378-BD7E-44F6-995D-15BF45F147AC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
